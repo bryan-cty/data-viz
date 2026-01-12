@@ -1,5 +1,5 @@
 # data-viz
-## A repository for my Vega/Vega-Lite data visualizations
+<b> A repository for my Vega/Vega-Lite data visualizations </b>
 
 📊 This repo is meant to showcase what I am able to do
 
